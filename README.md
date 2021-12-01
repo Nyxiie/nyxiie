@@ -7,8 +7,8 @@
   - 💳 Be nice or ur cc is mine lol
   - 💬 Please dont ask me , thank u
 
-                                                  ⇆ㅤ  || ◁ㅤ❚❚ㅤ▷ ||ㅤ  ↻
-                                               20:02 ━━━━━━⬤───── 20:29
+                                                    ⇆ㅤ  || ◁ㅤ❚❚ㅤ▷ ||ㅤ  ↻
+                                                  20:02 ━━━━━━⬤───── 20:29
 <div align="center">
 
   ![](https://tryhackme-badges.s3.amazonaws.com/Nyxie.png)
