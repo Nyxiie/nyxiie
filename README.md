@@ -8,7 +8,8 @@
   - 💬 Please dont ask me , thank u
 
 
-
                                                    20:02 ━━━━━━⬤───── 20:29
+<div align="center">
 
-![](https://tryhackme-badges.s3.amazonaws.com/Nyxie.png)
+  ![](https://tryhackme-badges.s3.amazonaws.com/Nyxie.png)
+</div>
