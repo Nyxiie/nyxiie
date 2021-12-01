@@ -1,5 +1,5 @@
 
-# Hi, I'm Nyx/Nyxie
+# Hi, I'm Nyx/Nyxie [![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)]
 <hr>
 
   - 🏴‍☠️ Fulltime pirate arrrr...
