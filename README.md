@@ -11,3 +11,4 @@
 
                                                    20:02 ━━━━━━⬤───── 20:29
 
+![](https://tryhackme-badges.s3.amazonaws.com/Nyxie.png)
