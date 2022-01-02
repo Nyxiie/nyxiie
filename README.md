@@ -30,5 +30,6 @@ Privacy OS :
                                                      
             now ᴘʟᴀʏɪɴɢ: ¹⁷²³⁷⁴⁶⁴ (Feat: 𝘕𝘹𝘹𝘹𝘹𝘹𝘚) ───────────⚪────── ◄◄⠀▐▐⠀►► 𝟸0:02 / 20:29⠀────○ 🔊
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Nyxie)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nyxiie)
