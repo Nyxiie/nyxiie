@@ -1,39 +1,31 @@
 
-# Hi, I'm Nyx/Nyxie 
-<hr>
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E42CF7&center=true&lines=Pentester+%26+CTF+Player;Pirate+%26+Cheater)](https://git.io/typing-svg)
-  
-  
-Main OS :
-  
-  
-  ![OS - Linux](https://img.shields.io/badge/Arch_Linux-B00B69?style=for-the-badge&logo=arch-linux&logoColor=white)
-  ![OS - CPU](https://img.shields.io/badge/Intel-Core_i9_12900k-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-  ![OS - GPU](https://img.shields.io/badge/NVIDIA-RTX3060TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-  
-Pentesting OS :
-  
-  ![](https://img.shields.io/badge/BLACKARCH-RAZER_BLADE_15_(2018)-B00B69?style=for-the-badge&logo=arch-linux&logoColor=white)
-  
-Privacy OS :
-  
-  ![](https://img.shields.io/badge/TAILS-KINGSTON_USB3.0_128GB-B00B69?style=for-the-badge&logo=tails&logoColor=white)
-  
-  
-</div>
+<h1 align="left">Hello People</h1>
 
-  - 💳 Be nice or ur cc is mine lol
-  - 💬 Please dont ask me , thank u
+<p><img align="right" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette2.wikia.nocookie.net%2Fwatchdogscombined%2Fimages%2F2%2F2f%2FDedSec.png%2Frevision%2Flatest%3Fcb%3D20160929140012&f=1&nofb=1" alt="wind" height="auto" width="412"></p>
+<h3> Language & Tools </h3>
 
-                                                     
-            now ᴘʟᴀʏɪɴɢ: ¹⁷²³⁷⁴⁶⁴ (Feat: 𝘕𝘹𝘹𝘹𝘹𝘹𝘚) ───────────⚪────── ◄◄⠀▐▐⠀►► 𝟸0:02 / 20:29⠀────○ 🔊
-            
-<div align="center">
-  
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Nyxie)
-  
-</div>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nyxiie)
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-line.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bash/bash-original.svg"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/xd/xd-line.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-line.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg"></code>
+
+<h3> Operation System </h3>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/centos/centos-original.svg"></code>
+<code><img height="30" src="https://devicons.railway.app/i/archlinux.svg"></code>
+<code><img height="30" src="https://www.blackarch.org/images/logo/ba-logo.png"></code>
+
+
+
+
+
+
+
+
+
