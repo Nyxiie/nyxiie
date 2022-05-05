@@ -1,7 +1,6 @@
 
-<h1 align="left">o/</h1>
+<h1 align="left">Salut</h1>
 
-<p><img align="right" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette2.wikia.nocookie.net%2Fwatchdogscombined%2Fimages%2F2%2F2f%2FDedSec.png%2Frevision%2Flatest%3Fcb%3D20160929140012&f=1&nofb=1" alt="wind" height="auto" width="412"></p>
 <h3> Language & Tools </h3>
 
 
