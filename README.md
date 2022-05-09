@@ -1,30 +1,17 @@
+```zsh
+> fetchd
+```
 
-<h1 align="left">Salut</h1>
+<img align="left" src="https://66.media.tumblr.com/db5bfe76323a05b7bff70a272baef5a9/tumblr_oqufitCx7i1u84suwo1_500.png" alt="logo.png" width="200" /> 
 
-<h3> Language & Tools </h3>
+```csharp
+----------------
 
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-plain.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-plain.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-plain.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-line.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bash/bash-original.svg"></code>
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/xd/xd-line.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-line.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg"></code>
-
-<h3> Operation System </h3>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/centos/centos-original.svg"></code>
-<code><img height="30" src="https://devicons.railway.app/i/archlinux.svg"></code>
-<code><img height="30" src="https://www.blackarch.org/images/logo/ba-logo.png"></code>
-
-
-
-
-
-
-
-
-
+       OS  :  Arch Linux
+       DE  :  KDE Plasma
+    Shell  :  zsh
+ Terminal  :  Kitty
+    Alias  :  nyx/nyxie/0x28
+    
+----------------
+```
