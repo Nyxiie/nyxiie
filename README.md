@@ -11,7 +11,7 @@
        DE  :  KDE Plasma
     Shell  :  zsh
  Terminal  :  Kitty
-    Alias  :  nyx/nyxie/0x28
+    Alias  :  nyx
     
 ----------------
 ```
