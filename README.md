@@ -7,11 +7,11 @@
 ```csharp
 ----------------
 
-       OS  :  Arch Linux
-       DE  :  KDE Plasma
+       OS  :  Nobara
+       DE  :  Wayland
     Shell  :  zsh
  Terminal  :  Kitty
-    Alias  :  nyx
+    Alias  :  nyxie
     
 ----------------
 ```
